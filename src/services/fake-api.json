@@ -1,0 +1,35 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "administrador",
+      "usuario": "admin",
+      "contrasena": "admin"
+    },
+    {
+      "id": "ba63",
+      "nombre": "quesito",
+      "usuario": "boliqueso",
+      "contrasena": "1234"
+    },
+    {
+      "id": "1fde",
+      "nombre": "quesito",
+      "usuario": "boliqueso",
+      "contrasena": "1234"
+    },
+    {
+      "id": "8771",
+      "nombre": "pusidistroyer",
+      "usuario": "papaseta",
+      "contrasena": "123"
+    },
+    {
+      "id": "ae2d",
+      "nombre": "pusidistroyer",
+      "usuario": "papaseta",
+      "contrasena": "123"
+    }
+  ],
+  "envios": []
+}
